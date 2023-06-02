@@ -156,6 +156,22 @@ p,h1
       top: 0px;
       left: 0px;
     }
+    .logo
+{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.menu
+{
+    display: flex;
+    align-items: center;   
+    position: relative;
+    top: 0px;
+    right: 0px;
+    gap: 40px;
+    
+}
     /* grid */
     .AI_con
     {
@@ -166,4 +182,5 @@ p,h1
     {
         width: 200px;
     }
+
     } 
